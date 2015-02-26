@@ -10,13 +10,10 @@ import android.content.IntentFilter;
 import android.os.IBinder;
 import android.widget.Toast;
 
-import com.safevigilance.customlockscreenexample.receiver.StartMyServiceAtBootReceiver;
-
 public class MyService extends Service{
     int mStartMode;       // indicates how to behave if the service is killed
     IBinder mBinder;      // interface for clients that bind
     boolean mAllowRebind; // indicates whether onRebind should be used
-    private StartMyServiceAtBootReceiver();
 
     @Override
     public void onCreate() {
@@ -26,7 +23,6 @@ public class MyService extends Service{
         Toast toast = Toast.makeText(this, text, duration);
         toast.show();
 
-bind
         IntentFilter filter = new IntentFilter(Intent.ACTION_SCREEN_ON);
         filter.addAction(Intent.ACTION_SCREEN_OFF);
 
