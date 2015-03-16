@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomLockScreenExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="LocationServiceErrorMessage">Please turn on your \"Location Services\" for the application to acquire your speed!</string>
+    <string name="title_activity_waring_screen">WaringScreen</string>
+    <string name="title_activity_warning_screen">WarningScreen</string>
+    <string name="title_activity_stop_texting_warning">StopTextingWarning</string>
+    <string name="title_activity_locking_hard_buttons">LockingHardButtons</string>
+
+</resources>
