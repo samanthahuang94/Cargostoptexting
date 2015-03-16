@@ -18,44 +18,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9a32d9b-f312-4a9a-9584-fa065dd3a028" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Cargostoptextingv3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../Cargostoptexting.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../CustomLockScreenExample.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/app.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/androidTest/java/com/safevigilance/customlockscreenexample/ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/java/com/safevigilance/customlockscreenexample/MainScreen.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/java/com/safevigilance/customlockscreenexample/MyService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/java/com/safevigilance/customlockscreenexample/receiver/StartMyServiceAtBootReceiver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/layout/activity_main_screen.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/menu/menu_main_screen.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../app/src/main/res/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../build/intermediates/dex-cache/cache.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../build/intermediates/model_data.bin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../gradlew" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../local.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../settings.gradle" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Cargostoptextingv3.iws" />
     <ignored path=".idea/workspace.xml" />
