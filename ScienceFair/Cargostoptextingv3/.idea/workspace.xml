@@ -17,9 +17,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.safevigilance.customlockscreenexample" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9a32d9b-f312-4a9a-9584-fa065dd3a028" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a9a32d9b-f312-4a9a-9584-fa065dd3a028" name="Default" comment="" />
     <ignored path="Cargostoptextingv3.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,24 +39,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainScreen.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/safevigilance/customlockscreenexample/MainScreen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.008474576" vertical-offset="1510" max-vertical-offset="2100">
-              <caret line="101" column="63" selection-start-line="101" selection-start-column="63" selection-end-line="101" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1329#1504#0" expanded="true" />
-                <element signature="e#1493#1494#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ToastTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ToastTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/com/android/statusbartest/ToastTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.346154" vertical-offset="1422" max-vertical-offset="2025">
+            <state vertical-scroll-proportion="0.40298507" vertical-offset="1422" max-vertical-offset="2025">
               <caret line="135" column="24" selection-start-line="135" selection-start-column="22" selection-end-line="135" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -1716,7 +1700,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2223,16 +2207,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/com/android/statusbartest/ToastTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.346154" vertical-offset="1422" max-vertical-offset="2025">
-          <caret line="135" column="24" selection-start-line="135" selection-start-column="22" selection-end-line="135" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.26865673" vertical-offset="291552" max-vertical-offset="306960">
@@ -2249,6 +2223,16 @@
             <element signature="imports" expanded="true" />
             <element signature="e#1329#1504#0" expanded="true" />
             <element signature="e#1493#1494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-21/com/android/statusbartest/ToastTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40298507" vertical-offset="1422" max-vertical-offset="2025">
+          <caret line="135" column="24" selection-start-line="135" selection-start-column="22" selection-end-line="135" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
