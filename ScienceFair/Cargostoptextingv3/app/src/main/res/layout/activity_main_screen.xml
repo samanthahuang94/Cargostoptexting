@@ -55,5 +55,15 @@
         android:layout_marginTop="88dp"
         android:text="Unlock" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        android:id="@+id/button"
+        android:onClick="showAlert"
+        android:layout_below="@+id/UnlockButton"
+        android:layout_alignStart="@+id/UnlockButton"
+        android:layout_marginTop="34dp" />
+
 
 </RelativeLayout>
